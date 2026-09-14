@@ -22,3 +22,18 @@ python 3.13 or later
 ```bash
 export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
 ```
+
+## Installation
+
+### Install the required packages
+
+```bash
+$ pip install the required packages
+```
+
+### setup the environment variables
+
+```bash
+$ cp .env.example .env
+```
+set your environment variables  in the '.env' like 'OPEN_API_KEY' value
